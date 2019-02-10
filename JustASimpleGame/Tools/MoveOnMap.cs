@@ -8,9 +8,6 @@ namespace JustASimpleGame.Tools
 {
     class MoveOnMap
     {
-        //public static string MovingOnMapHandler()
-        //{
-          
-        //}
+        
     }
 }
